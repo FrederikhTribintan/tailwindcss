@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "EvelethCleanRegular";
+    src: url("Eveleth Clean Regular.otf") format("truetype");
+}
+*{
+    font-family: EvelethCleanRegular ;
+}
+body{
+    background-color: #454545;
+}
+#delivery{
+    background-color: #006991;
+}
+#pickup{
+    background-color: #e41837;
+}
